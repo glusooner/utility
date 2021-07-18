@@ -1,6 +1,4 @@
-from util import hello
+from util import *
 
-name = 'George'
-
-print(f'welcome to {name}')
 hello('kids')
+hello2('george')
